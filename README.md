@@ -1,4 +1,3 @@
-Here’s an example `README.md` file for your TODO list application:
 
 ---
 
